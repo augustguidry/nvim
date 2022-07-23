@@ -1,6 +1,6 @@
 # Neovim Config
  
-Here is my config file for Neovim.
+This is my Neovim config.
 
 Feel free to do what you will with this code.
 
